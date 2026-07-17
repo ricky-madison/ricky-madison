@@ -1,250 +1,305 @@
-```markdown
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:1E293B,100:334155&text=Ricky%20Madison&fontColor=ffffff&fontAlignY=40&fontSize=54&desc=Pharmaceutical%20Executive%20•%20AI%20Systems%20Architect%20•%20Technology%20Founder&descAlignY=62"/>
+
 # 🧬 Ricky Madison
-**Pharmaceutical & Regulated AI Systems Executive**  
-*Drug Development · Applied AI Systems · Technology Founder*  
-Operating at the intersection of pharmaceutical manufacturing, healthcare AI, and regulated technology. Fifteen years building institutional-grade systems.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ricky-madison/)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rickywmadison)
-[![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white)](https://researchgate.net/)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ricky-madison)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ricky-madison)
+### Pharmaceutical & Regulated AI Systems Executive
+
+**Drug Development • Oncology AI • Computational Biology • Regulated Software • Technology Founder**
+
+<p>
+
+<a href="https://linkedin.com/in/ricky-madison">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/rickywmadison">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://medium.com/@ricky-madison">
+<img src="https://img.shields.io/badge/Medium-121212?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
+<a href="https://youtube.com/@ricky-madison">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://researchgate.net/">
+<img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/>
+</a>
+
+<a href="https://orcid.org/">
+<img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
+</a>
+
+</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&weight=600&size=22&pause=2500&color=FFFFFF&center=true&vCenter=true&width=900&lines=Drug+Discovery+%7C+Computational+Oncology;Regulated+Artificial+Intelligence;Scientific+Software+Architecture;Technology+Founder;Building+Institutional+Grade+Platforms"/>
+
+</div>
 
 ---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&weight=600&size=22&pause=2500&color=FFFFFF&center=true&vCenter=true&width=900&lines=Drug+Discovery+%7C+Computational+Oncology;Artificial+Intelligence+for+Regulated+Systems;Technology+Founder+%7C+Software+Architect"/>
+# ⚜ Executive Profile
 
-## 💫 About Me
+Operating at the intersection of **pharmaceutical manufacturing**, **computational oncology**, **regulated artificial intelligence**, and **scientific software engineering**.
 
-- 🔬 **Currently working on:** HyperLab53 — mutation-aware p53 workspace for cancer biologists, and advancing AI-driven formulation platforms for regulated pharma manufacturing.
-- 🤝 **Looking to collaborate on:** Oncology AI systems, structural bioinformatics tools, and translational research projects that bridge cancer biology with deterministic computational models.
-- 🆘 **Looking for help with:** Expanding experimental validation pipelines for TP53 rescue compounds and integrating prime-editing sensor data at scale.
-- 📚 **Currently learning:** Advanced AI-enhanced clinical performance models and predictive innovation in oncology (Professional Doctorate, University of Limerick).
-- 💡 **Ask me about:** Mutation-aware protein docking, regulated AI in pharma, softgel formulation science, or building production-grade scientific software for cancer research.
-- 🎯 **Fun fact:** I designed a patented AI-driven oncology monitoring system using single-lead ECG with deterministic signal-quality logic—and it all started from a pharmacist's perspective on patient safety.
+For more than fifteen years I have designed scientific platforms spanning pharmaceutical formulation, molecular modelling, deterministic AI, computational biology, and institutional-grade software engineering.
 
 ---
 
-## 🚀 Flagship Projects
+# ⚡ Current Focus
 
-### 🧬 HyperLab53 — Mutation-Aware p53 Workspace
-*One session from a TP53 variant to a scored, evidence-linked shortlist*
-
-| Metric | Value |
-|--------|-------|
-| **TP53 Variants Mapped** | 4,000+ (from COSMIC) |
-| **Prime-Editing Sensor Coverage** | 1,227 variants |
-| **PMID-Checked Compounds** | 100% verified |
-| **Live Data Sources** | Open Targets, RCSB Search API |
-| **Docking Engine** | Lennard-Jones + Coulomb + H-bond force field |
-
-**Key Features:**
-- ✅ Mutation‑aware structural modelling with WT overlay
-- ✅ Deterministic physics docking with simulated annealing
-- ✅ Evidence‑linked Rescue Brief with PMID validation
-- ✅ Experimental data overlay (Giacomelli 2018, Gould et al. 2024)
-- ✅ Per‑pose diligence (PoseBusters‑style sanity checks)
-- ✅ One‑click structured JSON export for reproducibility
-
-### 📈 OncoMonitor — AI-Driven Oncology Monitoring System
-*Patent Pending (Application No. PTIE20250000000895)*
-
-```
-┌─────────────────────────────────────────────────┐
-│  📊 ECG Signal      →    🧠 AI Classifier      │
-│  (Single-lead)           (k-of-n logic)        │
-├─────────────────────────────────────────────────┤
-│  ⚠️ Tiered Escalation:                         │
-│  • Green → Routine Monitoring                  │
-│  • Yellow → Clinical Alert                     │
-│  • Red → Emergency Escalation                  │
-├─────────────────────────────────────────────────┤
-│  👨‍⚕️ Caregiver + Clinical Workflow Integration │
-└─────────────────────────────────────────────────┘
+```text
+Drug Discovery                  ████████████████████ 100%
+Computational Oncology          ███████████████████░ 96%
+Artificial Intelligence         ████████████████████ 98%
+Regulated Software              ████████████████████ 99%
+Structural Bioinformatics       ██████████████████░░ 93%
+Pharmaceutical Manufacturing    ██████████████████░░ 92%
+Cloud Infrastructure            █████████████████░░░ 86%
 ```
 
-### 💊 Softgel Intelligence Platform
-*Proprietary R&D platform — deployed at Sungue Pharmaceutical Industries*
+---
 
-- Molecular dynamics + lipid‑matrix docking
-- Automated safety gating
-- Eliminated batch failures pre‑manufacturing
-- 30+ formulations commercialized (FDA, GMP, HALAL compliant)
+# 📊 GitHub Dashboard
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ricky-madison&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=ricky-madison&theme=github-dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricky-madison&layout=compact&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ricky-madison&theme=github_dark"/>
+
+</p>
 
 ---
 
-## 🏢 Ventures & Platforms
+# 🧭 Technical Profile
 
-| Entity | Focus | Role |
-|--------|-------|------|
-| **Sungue Pharmaceutical Industries** | FDA‑registered pharmaceutical manufacturing (softgel formulations) | Founder & CEO |
-| **AQSCC** | Quality, compliance & standards certification (21 CFR, EU GMP, ICH, PIC/S) | Founder |
-| **AGS Technologies** | Enterprise software engineering for pharma & healthcare | Founder |
-| **Convirz** | AI‑driven commercial intelligence for pharma & healthcare brands | Founder |
-| **Continents International University** | AI‑native reasoning‑based higher education institution | President & CEO |
-| **Humanizely** | AI system for scientific & regulatory writing | Founder |
-
----
-
-## 🧭 Technical Profile
-
-| Domain | Level |
-|---------|:-----:|
+| Domain | Expertise |
+|---------|:---------:|
 | Artificial Intelligence | ████████████████████ 98% |
-| Computational Oncology | ███████████████████ 96% |
+| Computational Oncology | ███████████████████░ 96% |
 | Drug Discovery | ████████████████████ 99% |
-| Structural Bioinformatics | ██████████████████ 95% |
-| Pharmaceutical Manufacturing | ██████████████████ 94% |
-| Software Architecture | ███████████████████ 97% |
-| Cloud Infrastructure | ████████████████ 88% |
+| Structural Biology | ███████████████████░ 95% |
+| Bioinformatics | ███████████████████░ 95% |
+| Pharmaceutical Manufacturing | ██████████████████░ 94% |
+| Software Architecture | ████████████████████ 98% |
+| Cloud Engineering | █████████████████░░░ 86% |
 | Regulatory Systems | ████████████████████ 99% |
 
 ---
 
-## 🏆 Professional Domains
+# 🏛 Core Competencies
+
+| Scientific Computing | Engineering | Executive Leadership |
+|----------------------|------------|----------------------|
+| Oncology AI | Distributed Systems | Technology Strategy |
+| Molecular Docking | Cloud Architecture | Product Leadership |
+| Computational Biology | API Design | Scientific Leadership |
+| Protein Modelling | DevOps | Innovation Management |
+| Precision Medicine | AI Infrastructure | Regulatory Strategy |
+| Drug Discovery | Enterprise Software | Research Translation |
+
+---
+
+# 🚀 Flagship Projects
+
+## 🧬 HyperLab53
+
+### Mutation-Aware TP53 Discovery Platform
+
+A deterministic computational oncology platform designed to move from TP53 mutation analysis to evidence-linked therapeutic candidates within a reproducible scientific workflow.
+
+| Capability | Status |
+|------------|--------|
+| Mutation-aware structural modelling | ✅ |
+| Physics-based docking | ✅ |
+| Simulated annealing | ✅ |
+| Prime-editing integration | ✅ |
+| COSMIC integration | ✅ |
+| Open Targets integration | ✅ |
+| PMID evidence validation | ✅ |
+| Structured JSON export | ✅ |
+
+### Platform Metrics
+
+| Metric | Value |
+|---------|------:|
+| TP53 Variants | 4,000+ |
+| Prime Editing Coverage | 1,227 |
+| PMID Validation | 100% |
+| Docking Engine | Deterministic |
+| Live APIs | Multiple |
+| Architecture | Production Ready |
+
+---
+
+## 📈 OncoMonitor
+
+**Patent Pending**
+
+AI-powered oncology monitoring platform combining deterministic ECG quality assessment with explainable clinical decision support.
+
+### Highlights
+
+- AI-assisted oncology monitoring
+- Deterministic signal quality verification
+- Explainable AI engine
+- Clinical workflow integration
+- Regulatory-first architecture
+
+---
+
+# 🛠 Technology Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,nodejs,react,nextjs,html,css,tailwind,cs,dotnet,cpp,java,r,rust,postgres,mongodb,docker,kubernetes,aws,azure,git,github,vscode,linux"/>
+
+</p>
+
+---
+
+# 📚 Languages
+
+| Language | Proficiency |
+|-----------|------------|
+| Python | ████████████████████ |
+| TypeScript | ███████████████████ |
+| JavaScript | ███████████████████ |
+| C# | ██████████████████ |
+| SQL | █████████████████ |
+| R | ███████████████ |
+| C++ | █████████████ |
+| Java | ████████████ |
+
+---
+
+# 🌐 Professional Network
 
 ```text
-                              AI Systems
-                                   ●
-                            ╱──────┼──────╲
-                           ╱       │       ╲
-                Drug Discovery   Oncology   Machine Learning
-                     ●────────────●────────────●
-                      ╲           │           ╱
-                       ╲          │          ╱
-                    Bioinformatics ● Software Engineering
-                           │       │       │
-                           │       │       │
-                  Pharmaceutical Manufacturing
-                           │
-                    Regulated AI Systems
-                           │
-                     Executive Leadership
+                                   Artificial Intelligence
+                                            ●
+                                  ──────────┼──────────
+                               ╱            │            ╲
+                              ╱             │             ╲
+               Machine Learning        Oncology AI       Clinical Systems
+                      ●──────────────────●──────────────────●
+                       ╲                ╱ ╲                ╱
+                        ╲              ╱   ╲              ╱
+                         ╲            ╱     ╲            ╱
+                   Drug Discovery ●───●───● Bioinformatics
+                               ╲        │        ╱
+                                ╲       │       ╱
+                                 ╲      │      ╱
+                      Pharmaceutical Manufacturing
+                                      ●
+                                      │
+                           Regulated AI Systems
+                                      │
+                                      ●
+                           Software Architecture
+                                      │
+                                      ●
+                            Executive Leadership
 ```
 
 ---
 
-## 📊 Executive Dashboard
+# ☁ Platform Expertise
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ricky-madison&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=ricky-madison&theme=github-dark&hide_border=true"/>
-</p>
+```text
+Artificial Intelligence
+██████████████████████████████████
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricky-madison&layout=compact&theme=github_dark&hide_border=true"/>
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ricky-madison&theme=github_dark"/>
-</p>
+Machine Learning
+████████████████████████████████
+
+Drug Discovery
+██████████████████████████████████
+
+Computational Biology
+███████████████████████████████
+
+Structural Bioinformatics
+██████████████████████████████
+
+Cloud Infrastructure
+████████████████████████████
+
+Enterprise Software
+████████████████████████████████
+
+Regulatory Compliance
+██████████████████████████████████
+```
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Activity
+
+<p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ricky-madison&theme=github-dark&hide_border=true"/>
 
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=ricky-madison&theme=darkhub&no-frame=true&column=4)
+</p>
 
 ---
 
-## 💻 Tech Stack
+# 🏆 Achievements
 
-### 🧪 Scientific Computing
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
+<p align="center">
 
-### ⚙️ Backend & DevOps
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+<img src="https://github-profile-trophy.vercel.app/?username=ricky-madison&theme=darkhub&column=4&margin-w=15&margin-h=15&no-frame=true"/>
 
-### 🖥️ Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-
-### 🗄️ Databases
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-
-### 🔧 Version Control
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+</p>
 
 ---
 
-## 📚 Research & Publications
+# 🔬 Research Interests
 
-- **Published Author:** *The Hidden Link Between Hunger and Cancer* — explores micronutrient deficiencies (Vitamin D & B-complex), chronic inflammation, and DNA repair in cancer development.
-- **Professional Doctorate (In Progress)** — University of Limerick: *AI‑Enhanced Clinical Performance & Predictive Innovation in Oncology*.
-- **MSc** — Royal College of Surgeons in Ireland (RCSI): *Digital Risk Stratification and AI Escalation Pathways in Cancer Treatment Monitoring*.
-- **BSc** — Atlantic Technological University (ATU): *Pharmaceutical Sciences (Drug Development and Formulation)*.
-- **Professional Certifications:**
-  - Pharmaceutical Scientist, Royal College of Pharmacy
-  - Partner Scientist, Royal Society of Chemistry
-  - Member, Royal Academy of Medicine in Ireland
-
----
-
-## 🧠 Core Competencies
-
-| Domain | Expertise |
-|--------|-----------|
-| **Pharmaceutical R&D** | Formulation science, softgel development, stability studies, bioequivalence |
-| **Regulatory Science** | FDA, GMP, EU GMP, ICH, PIC/S compliance |
-| **AI Systems & Products** | AI‑powered scientific tools, research workflows, intelligent systems |
-| **Scientific Data Systems** | Citation‑gated R&D engines, ingredient intelligence, structured research tooling |
-| **Digital Health Technology** | Healthcare and life‑science platforms for clinical and operational use |
-| **Enterprise Software** | Scalable cloud architectures, internal platforms, digital transformation |
-| **Clinical & Research Strategy** | Evidence design, research methodology, translational science execution |
-| **Global Commercialisation** | Multi‑region operations across pharma, technology, and regulated markets |
+- Artificial Intelligence
+- Computational Oncology
+- Precision Medicine
+- Drug Discovery
+- Pharmaceutical Manufacturing
+- Structural Biology
+- Molecular Docking
+- Regulated AI Systems
+- Scientific Computing
+- Explainable AI
 
 ---
 
-## 🏆 Honours & Contributions
+# 📖 Current Work
 
-| Award / Role | Recognition |
-|--------------|-------------|
-| 🏅 **Marquis Who's Who** | Lifetime Achievement Honoree |
-| 🎖️ **President's Volunteer Service Award** | Gold Level Recognition |
-| 🌍 **IACBE** | Regional President (2023–2026) |
-| 📋 **AAC (Americas Accreditation Council)** | Chief Operating Officer |
-| 🔍 **ACCET** | Site Visitor (2023) |
+- 🧬 HyperLab53
+- ⚕ AI-Driven Oncology Platforms
+- 🧪 Pharmaceutical Manufacturing Systems
+- 🎓 Professional Doctorate — University of Limerick
+- 🚀 Enterprise Scientific Software
 
 ---
 
-## 📝 Random Dev Quote
+<div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+> *Engineering scientific systems where reproducibility, regulation, and innovation converge.*
 
----
+<br>
 
-## 👁️ Profile Views
+<img src="https://komarev.com/ghpvc/?username=ricky-madison&label=Profile%20Views&style=for-the-badge&color=1f6feb"/>
 
-![](https://komarev.com/ghpvc/?username=ricky-madison&icon=0&color=0)
+</div>
 
----
-
-> *Engineering scientific platforms where reproducibility, regulation and innovation converge.*
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:0F172A,50:1E293B,100:334155"/>
