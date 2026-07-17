@@ -9,15 +9,15 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,25:0F172A,50:1E293B,75:334155,100:475569&text=Ricky%20Madison&fontColor=ffffff&fontAlignY=40&fontSize=54&desc=Pharmaceutical%20Executive%20•%20AI%20Systems%20Architect%20•%20Technology%20Founder&descAlignY=62&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:1E293B,100:334155&text=Ricky%20Madison&fontColor=ffffff&fontAlignY=40&fontSize=54&desc=Pharmaceutical%20Executive%20•%20AI%20Systems%20Architect%20•%20Technology%20Founder&descAlignY=62" width="100%"/>
 
 # 🧬 Ricky Madison
 
 ### Pharmaceutical & Regulated AI Systems Executive
 
-**Drug Development • Oncology AI • Computational Biology • Regulated Software • Technology Founder**
+**Drug Development • Oncology AI • Computational Biology • Regulated Software**
 
-<p align="center">
+<p>
 
 <a href="https://linkedin.com/in/ricky-madison">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -25,14 +25,6 @@
 
 <a href="https://x.com/rickywmadison">
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="https://medium.com/@ricky-madison">
-<img src="https://img.shields.io/badge/Medium-121212?style=for-the-badge&logo=medium&logoColor=white"/>
-</a>
-
-<a href="https://youtube.com/@ricky-madison">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
 <a href="https://researchgate.net/">
@@ -45,7 +37,7 @@
 
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&size=22&pause=3000&center=true&vCenter=true&width=1000&lines=Building+Institutional-Grade+Scientific+Software;AI+for+Drug+Discovery+%26+Pharmaceutical+Manufacturing;Computational+Oncology;Mutation-Aware+Bioinformatics;Deterministic+AI+Systems;Fifteen+Years+Building+Regulated+Technology"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&weight=600&size=22&pause=2500&color=FFFFFF&center=true&vCenter=true&width=900&lines=Drug+Discovery+%7C+Computational+Oncology;Regulated+Artificial+Intelligence;Scientific+Software+Architecture;Technology+Founder;Building+Institutional+Grade+Platforms"/>
 
 </div>
 
@@ -53,83 +45,86 @@
 
 # ⚜ Executive Profile
 
-> Operating at the intersection of **pharmaceutical manufacturing**, **computational oncology**, **regulated artificial intelligence**, and **scientific software engineering**.
+Operating at the intersection of **pharmaceutical manufacturing**, **computational oncology**, **regulated artificial intelligence**, and **scientific software engineering**.
 
-For more than fifteen years I have designed technology platforms spanning pharmaceutical formulation, medical software, deterministic AI systems, molecular modelling, and institutional-grade scientific infrastructure.
-
-My work focuses on translating complex biomedical research into production-ready software that meets the expectations of regulated environments.
+For more than fifteen years I have designed scientific platforms spanning pharmaceutical formulation, molecular modelling, deterministic AI, computational biology, and institutional-grade software engineering.
 
 ---
 
 # ⚡ Current Focus
 
 ```text
-Drug Discovery               ████████████████████ 100%
-Computational Oncology       ██████████████████░ 95%
-Applied Artificial Intelligence██████████████████ 98%
-Regulated Software           ███████████████████ 98%
-Structural Bioinformatics    █████████████████░░ 90%
-Pharmaceutical Manufacturing █████████████████░░ 92%
-Cloud Infrastructure         ████████████████░░░ 85%
+Drug Discovery                  ████████████████████ 100%
+Computational Oncology          ███████████████████░ 96%
+Artificial Intelligence         ████████████████████ 98%
+Regulated Software              ████████████████████ 99%
+Structural Bioinformatics       ██████████████████░░ 93%
+Pharmaceutical Manufacturing    ██████████████████░░ 92%
+Cloud Infrastructure            █████████████████░░░ 86%
 ```
 
 ---
 
-# 📊 Executive Dashboard
+# 📊 GitHub Dashboard
 
 <div align="center">
 
-| | |
-|:---:|:---:|
-|![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)|![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true)|
-|![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true)|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark)|
+<!-- GitHub Profile Summary -->
+
+<br><br>
+
+<!-- GitHub Streak -->
+<img 
+src="https://streak-stats.demolab.com?user=ricky-madison&theme=github-dark&hide_border=true"
+width="500"
+/>
+
+<br><br>
+
+<!-- Languages -->
+<img 
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ricky-madison&theme=github_dark"
+width="500"
+/>
+
+<br><br>
+
+<!-- Profile Overview -->
+<img 
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ricky-madison&theme=github_dark"
+width="100%"
+/>
 
 </div>
 
 ---
 
-# 🧭 Technical Radar
+# 🧭 Technical Profile
 
-<div align="center">
-
-```mermaid
-radar-beta
-title Executive Technical Profile
-
-axis AI Engineering
-axis Drug Discovery
-axis Bioinformatics
-axis Software Architecture
-axis Cloud
-axis Data Science
-axis Regulatory
-axis Machine Learning
-
-curve Experience
-95
-98
-96
-97
-90
-93
-99
-95
-```
-
-</div>
+| Domain | Expertise |
+|---------|:---------:|
+| Artificial Intelligence | ████████████████████ 98% |
+| Computational Oncology | ███████████████████░ 96% |
+| Drug Discovery | ████████████████████ 99% |
+| Structural Biology | ███████████████████░ 95% |
+| Bioinformatics | ███████████████████░ 95% |
+| Pharmaceutical Manufacturing | ██████████████████░ 94% |
+| Software Architecture | ████████████████████ 98% |
+| Cloud Engineering | █████████████████░░░ 86% |
+| Regulatory Systems | ████████████████████ 99% |
 
 ---
 
 # 🏛 Core Competencies
 
-| Scientific | Engineering | Leadership |
-|------------|-------------|------------|
-| Oncology AI | Distributed Systems | Executive Strategy |
-| Molecular Docking | Cloud Architecture | Product Vision |
-| Computational Biology | DevOps | Scientific Leadership |
-| Structural Biology | API Design | Regulatory Programs |
-| Pharmaceutical Science | Full Stack Development | Technology Roadmaps |
-| Precision Medicine | AI Infrastructure | Innovation Management |
+| Scientific Computing | Engineering | Executive Leadership |
+|----------------------|------------|----------------------|
+| Oncology AI | Distributed Systems | Technology Strategy |
+| Molecular Docking | Cloud Architecture | Product Leadership |
+| Computational Biology | API Design | Scientific Leadership |
+| Protein Modelling | DevOps | Innovation Management |
+| Precision Medicine | AI Infrastructure | Regulatory Strategy |
+| Drug Discovery | Enterprise Software | Research Translation |
 
 ---
 
@@ -137,67 +132,227 @@ curve Experience
 
 ## 🧬 HyperLab53
 
-### Mutation-Aware p53 Discovery Platform
+## 🚀 Flagship Projects
 
-Institutional-grade computational workspace enabling researchers to progress from a TP53 mutation to evidence-linked therapeutic candidates within a unified deterministic workflow.
+<table style="width:100%">
+<tr>
 
-<table>
+<td width="50%" valign="top">
+
+<h3 align="center">🧬 HyperLab53</h3>
+
+<p align="center">
+<b>Mutation-Aware TP53 Discovery Platform</b>
+</p>
+
+<p>
+A deterministic computational oncology platform designed to move from TP53 mutation analysis to evidence-linked therapeutic candidates within a reproducible scientific workflow.
+</p>
+
+<br>
+
+<table style="width:100%">
 
 <tr>
-<td width="50%">
+<th style="width:80%">Capability</th>
+<th style="width:20%; text-align:center">Status</th>
+</tr>
 
-### Capabilities
+<tr>
+<td>Structural modelling</td>
+<td align="center">✅</td>
+</tr>
 
-- Mutation-aware structural modelling
-- Physics-based docking
-- Simulated annealing
-- Prime editing integration
-- Rescue Brief generation
-- COSMIC integration
-- OpenTargets integration
-- Evidence validation
-- JSON reproducibility
+<tr>
+<td>Physics-based docking</td>
+<td align="center">✅</td>
+</tr>
+
+<tr>
+<td>Simulated annealing</td>
+<td align="center">✅</td>
+</tr>
+
+<tr>
+<td>Prime-editing integration</td>
+<td align="center">✅</td>
+</tr>
+
+<tr>
+<td>COSMIC integration</td>
+<td align="center">✅</td>
+</tr>
+
+<tr>
+<td>Open Targets integration</td>
+<td align="center">✅</td>
+</tr>
+
+<tr>
+<td>PMID evidence validation</td>
+<td align="center">✅</td>
+</tr>
+
+<tr>
+<td>JSON reproducibility</td>
+<td align="center">✅</td>
+</tr>
+
+</table>
 
 </td>
 
-<td width="50%">
 
-| Metric | Value |
-|------|------|
-| TP53 Variants | 4,000+ |
-| Prime Editing Coverage | 1,227 |
-| PMID Validation | 100% |
-| Live APIs | Multiple |
-| Docking Engine | Deterministic |
-| Architecture | Production Ready |
+<td width="50%" valign="top">
+
+<h3 align="center">📊 HyperLab53</h3>
+
+<p align="center">
+<b>Platform Performance Metrics</b>
+</p>
+
+<p>
+A production-ready scientific platform architecture combining computational biology, deterministic AI, and evidence-driven therapeutic discovery.
+</p>
+
+<br>
+
+<table style="width:100%">
+
+<tr>
+<th style="width:70%">Metric</th>
+<th style="width:30%; text-align:center">Value</th>
+</tr>
+
+<tr>
+<td>TP53 Variants</td>
+<td align="center">4,000+</td>
+</tr>
+
+<tr>
+<td>Prime Editing Coverage</td>
+<td align="center">1,227</td>
+</tr>
+
+<tr>
+<td>PMID Validation</td>
+<td align="center">100%</td>
+</tr>
+
+<tr>
+<td>Docking Engine</td>
+<td align="center">Deterministic</td>
+</tr>
+
+<tr>
+<td>Live APIs</td>
+<td align="center">Multiple</td>
+</tr>
+
+<tr>
+<td>Architecture</td>
+<td align="center">Production Ready</td>
+</tr>
+
+<tr>
+<td>Workflow</td>
+<td align="center">Reproducible</td>
+</tr>
+
+<tr>
+<td>Evidence Layer</td>
+<td align="center">Validated</td>
+</tr>
+
+</table>
 
 </td>
 
 </tr>
-
 </table>
+
 
 ---
 
 ## 📈 OncoMonitor
 
+<table style="width:100%">
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">⚕ AI Oncology Monitoring System</h3>
+
+<p>
 Patent Pending
+</p>
 
-AI-powered oncology monitoring platform combining deterministic ECG signal quality analysis with intelligent clinical decision support.
+<p>
+AI-powered oncology monitoring platform combining deterministic ECG signal quality analysis with explainable clinical decision support.
+</p>
 
-**Highlights**
+</td>
 
-- AI-assisted clinical monitoring
-- Signal quality verification
-- Explainable decision engine
-- Regulatory-first architecture
+<td width="50%" valign="top">
+
+<h3 align="center">Core Capabilities</h3>
+
+<table style="width:100%">
+
+<tr>
+<th>Capability</th>
+<th>Status</th>
+</tr>
+
+<tr>
+<td>AI-assisted monitoring</td>
+<td align="center">✅</td>
+</tr>
+
+<tr>
+<td>Signal quality verification</td>
+<td align="center">✅</td>
+</tr>
+
+<tr>
+<td>Explainable decision engine</td>
+<td align="center">✅</td>
+</tr>
+
+<tr>
+<td>Regulatory-first architecture</td>
+<td align="center">✅</td>
+</tr>
+
+<tr>
+<td>Clinical workflow integration</td>
+<td align="center">✅</td>
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+</table>
+
+## 📈 OncoMonitor
+
+**Patent Pending**
+
+AI-powered oncology monitoring platform combining deterministic ECG quality assessment with explainable clinical decision support.
+
+### Highlights
+
+- AI-assisted oncology monitoring
+- Deterministic signal quality verification
+- Explainable AI engine
 - Clinical workflow integration
+- Regulatory-first architecture
 
 ---
 
 # 🛠 Technology Stack
-
-## Languages
 
 <p align="center">
 
@@ -207,48 +362,59 @@ AI-powered oncology monitoring platform combining deterministic ECG signal quali
 
 ---
 
-## Languages & Expertise
+# 📚 Programming Languages
+<div align="center">
 
-| Language | Experience |
-|----------|-----------|
-| Python | ████████████████████ |
-| TypeScript | ███████████████████ |
-| JavaScript | ███████████████████ |
-| C# | ██████████████████ |
-| SQL | █████████████████ |
-| R | ███████████████ |
-| C++ | █████████████ |
-| Java | ████████████ |
 
----
+<table>
+<tr>
+<td width="200"><b>Language</b></td>
+<td><b>Expertise</b></td>
+</tr>
 
-# ☁ Platform Expertise
+<tr>
+<td>🐍 Python</td>
+<td>████████████████████ 100%</td>
+</tr>
 
-```text
-Artificial Intelligence
-██████████████████████████████████
+<tr>
+<td>🔷 TypeScript</td>
+<td>███████████████████ 95%</td>
+</tr>
 
-Machine Learning
-████████████████████████████████
+<tr>
+<td>🟨 JavaScript</td>
+<td>███████████████████ 95%</td>
+</tr>
 
-Drug Discovery
-██████████████████████████████████
+<tr>
+<td>🟪 C#</td>
+<td>██████████████████ 90%</td>
+</tr>
 
-Bioinformatics
-██████████████████████████████
+<tr>
+<td>🗄️ SQL</td>
+<td>█████████████████ 85%</td>
+</tr>
 
-Cloud Infrastructure
-████████████████████████████
+<tr>
+<td>📊 R</td>
+<td>███████████████ 75%</td>
+</tr>
 
-DevOps
-███████████████████████████
+<tr>
+<td>⚙️ C++</td>
+<td>█████████████ 65%</td>
+</tr>
 
-System Architecture
-████████████████████████████████
+<tr>
+<td>☕ Java</td>
+<td>████████████ 60%</td>
+</tr>
 
-Regulatory Compliance
-██████████████████████████████████
-```
+</table>
+
+</div>
 
 ---
 
@@ -295,78 +461,81 @@ root((Ricky Madison))
 
 ---
 
-# 📈 GitHub Activity
+# ☁ Platform Expertise
 
-<div align="center">
+```text
+Artificial Intelligence
+██████████████████████████████████
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true"/>
+Machine Learning
+████████████████████████████████
 
-</div>
+Drug Discovery
+██████████████████████████████████
+
+Computational Biology
+███████████████████████████████
+
+Structural Bioinformatics
+██████████████████████████████
+
+Cloud Infrastructure
+████████████████████████████
+
+Enterprise Software
+████████████████████████████████
+
+Regulatory Compliance
+██████████████████████████████████
+```
 
 ---
 
-# 🏅 Achievements
+# 📈 Contribution Activity
 
-<div align="center">
+<p align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ricky-madison&theme=github-dark&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
-# 🌍 Areas of Research
+
+# 🔬 Research Interests
 
 - Artificial Intelligence
 - Computational Oncology
 - Precision Medicine
-- Structural Bioinformatics
-- Pharmaceutical Manufacturing
 - Drug Discovery
-- Regulated Software
-- Explainable AI
+- Pharmaceutical Manufacturing
+- Structural Biology
+- Molecular Docking
+- Regulated AI Systems
 - Scientific Computing
-- Molecular Modelling
+- Explainable AI
 
 ---
 
-# 📚 Currently
+# 📖 Current Work
 
-- 🧬 Building **HyperLab53**
-- ⚕ Developing deterministic oncology AI
-- 🧪 Advancing AI-driven pharmaceutical formulation
-- 🎓 Professional Doctorate — University of Limerick
-- 🚀 Building production scientific platforms
+- 🧬 HyperLab53
+- ⚕ AI-Driven Oncology Platforms
+- 🧪 Pharmaceutical Manufacturing Systems
+- 🚀 Enterprise Scientific Software
 
 ---
 
 <div align="center">
 
-### "Engineering scientific systems where reproducibility, regulation, and innovation converge."
+> *Engineering scientific systems where reproducibility, regulation, and innovation converge.*
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=ricky-madison&label=Profile%20Views&style=for-the-badge&color=1f6feb"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:020617,50:1E293B,100:475569"/>
-
-<!--
-
-Replace:
-
-YOUR_USERNAME
-
-with your GitHub username.
-
-Recommended repositories:
-
-github-readme-stats
-github-readme-streak-stats
-github-readme-activity-graph
-github-profile-summary-cards
-github-profile-trophy
-readme-typing-svg
-capsule-render
-skillicons
-
--->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:0F172A,50:1E293B,100:334155" width="100%" />
+</div>
