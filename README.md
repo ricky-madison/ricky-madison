@@ -65,40 +65,6 @@ Cloud Infrastructure            ████████████████
 
 ---
 
-# 📊 GitHub Dashboard
-
-<div align="center">
-
-<!-- GitHub Profile Summary -->
-
-<br><br>
-
-<!-- GitHub Streak -->
-<img 
-src="https://streak-stats.demolab.com?user=ricky-madison&theme=github-dark&hide_border=true"
-width="500"
-/>
-
-<br><br>
-
-<!-- Languages -->
-<img 
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ricky-madison&theme=github_dark"
-width="500"
-/>
-
-<br><br>
-
-<!-- Profile Overview -->
-<img 
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ricky-madison&theme=github_dark"
-width="100%"
-/>
-
-</div>
-
----
-
 # 🧭 Technical Profile
 
 | Domain | Expertise |
